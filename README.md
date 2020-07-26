@@ -27,3 +27,4 @@ How BankApp works:
   - Login credentials were asked to be stored as unique text documents for each user. They can be found in BankApp/credentials/
   
 Note: I do not consent to work being taken from this repository to aid in other people's assignments or etc.
+Disclaimer: I do not own the rights to the artwork used in this application.
