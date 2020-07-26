@@ -1,5 +1,6 @@
 # BankApp
 Simple GUI based bank account application.
+![BankApp Welcome Scene](https://github.com/Rugshan/BankApp/blob/master/Images/Welcome.jpg)
 
 BankApp was created as a final culminating project for my object oriented analysis and design course.
 
@@ -14,6 +15,9 @@ How BankApp works:
     - A manager can create a "customer" by providing a new username and a password
     - A manager can also delete a "customer" by submitting the desired username to be deleted
     - A manager can also log out of their account
+    ![Manager Scene](https://github.com/Rugshan/BankApp/blob/master/Images/Manager.jpg)
+    ![Add Customer](https://github.com/Rugshan/BankApp/blob/master/Images/ManagerAdd.jpg)
+    ![Delete Customer](https://github.com/Rugshan/BankApp/blob/master/Images/ManagerDelete.jpg)
     
  - A "customer" can log in with their newly created credentials
     - They can deposit a specified amount into their account
@@ -22,6 +26,10 @@ How BankApp works:
       • A customer's account is ranked based on their account balance
       • Depending on their account rank, they will have a certain fee charged for an online purchase
     - They can also log out of their account
+    ![Customer Scene](https://github.com/Rugshan/BankApp/blob/master/Images/Customer.jpg)
+    ![Deposit](https://github.com/Rugshan/BankApp/blob/master/Images/CustomerDeposit.jpg)
+    ![Withdraw](https://github.com/Rugshan/BankApp/blob/master/Images/CustomerWithdraw.jpg)
+    ![Online Purchase](https://github.com/Rugshan/BankApp/blob/master/Images/CustomerOnlinePurchase.jpg)
     
 3. BankApp was designed to delete all its user data, other than the manager's login details, after each restart.
   - Login credentials were asked to be stored as unique text documents for each user. They can be found in BankApp/credentials/
