@@ -5,6 +5,8 @@ BankApp was created as a final culminating project for my object oriented analys
 
 The main requirements were to implement a design pattern and a graphical user interface. The most intimidating task was creating the GUI. We were asked to learn how to create one on our own.
 
+UML diagrams were created but will not be included in this repository.
+
 How BankApp works:
 1. Compile and Run BankApp (was created in NetBeans)
 2. There are two types of users
